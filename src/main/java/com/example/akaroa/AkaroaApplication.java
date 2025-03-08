@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AkaroaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AkaroaApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AkaroaApplication.class, args);
+    }
 
 }
